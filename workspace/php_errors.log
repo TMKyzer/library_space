@@ -1,0 +1,430 @@
+[06-Apr-2019 19:19:40 UTC] PHP Warning:  include(server.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/admin/create_user.php on line 1
+[06-Apr-2019 19:19:40 UTC] PHP Stack trace:
+[06-Apr-2019 19:19:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/create_user.php:0
+[06-Apr-2019 19:19:40 UTC] PHP Warning:  include(): Failed opening 'server.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/admin/create_user.php on line 1
+[06-Apr-2019 19:19:40 UTC] PHP Stack trace:
+[06-Apr-2019 19:19:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/create_user.php:0
+[06-Apr-2019 19:19:40 UTC] PHP Fatal error:  Call to undefined function display_error() in /home/ubuntu/workspace/admin/create_user.php on line 24
+[06-Apr-2019 19:19:40 UTC] PHP Stack trace:
+[06-Apr-2019 19:19:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/create_user.php:0
+[06-Apr-2019 19:20:18 UTC] PHP Warning:  include(server.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/admin/create_user.php on line 1
+[06-Apr-2019 19:20:18 UTC] PHP Stack trace:
+[06-Apr-2019 19:20:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/create_user.php:0
+[06-Apr-2019 19:20:18 UTC] PHP Warning:  include(): Failed opening 'server.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/admin/create_user.php on line 1
+[06-Apr-2019 19:20:18 UTC] PHP Stack trace:
+[06-Apr-2019 19:20:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/create_user.php:0
+[06-Apr-2019 19:20:18 UTC] PHP Fatal error:  Call to undefined function display_error() in /home/ubuntu/workspace/admin/create_user.php on line 24
+[06-Apr-2019 19:20:18 UTC] PHP Stack trace:
+[06-Apr-2019 19:20:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/create_user.php:0
+[06-Apr-2019 19:21:08 UTC] PHP Fatal error:  Call to undefined function display_error() in /home/ubuntu/workspace/admin/create_user.php on line 24
+[06-Apr-2019 19:21:08 UTC] PHP Stack trace:
+[06-Apr-2019 19:21:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/create_user.php:0
+[06-Apr-2019 19:22:06 UTC] PHP Fatal error:  Call to undefined function display_error() in /home/ubuntu/workspace/admin/create_user.php on line 24
+[06-Apr-2019 19:22:06 UTC] PHP Stack trace:
+[06-Apr-2019 19:22:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/create_user.php:0
+[06-Apr-2019 19:22:15 UTC] PHP Fatal error:  Call to undefined function isAdmin() in /home/ubuntu/workspace/admin/home.php on line 4
+[06-Apr-2019 19:22:15 UTC] PHP Stack trace:
+[06-Apr-2019 19:22:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/home.php:0
+[07-Apr-2019 19:36:46 UTC] PHP Fatal error:  Call to undefined function display_error() in /home/ubuntu/workspace/admin/create_user.php on line 24
+[07-Apr-2019 19:36:46 UTC] PHP Stack trace:
+[07-Apr-2019 19:36:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/create_user.php:0
+[07-Apr-2019 19:36:46 UTC] PHP Fatal error:  Call to undefined function display_error() in /home/ubuntu/workspace/admin/create_user.php on line 24
+[07-Apr-2019 19:36:46 UTC] PHP Stack trace:
+[07-Apr-2019 19:36:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/create_user.php:0
+[12-Apr-2019 17:42:11 UTC] PHP Fatal error:  Call to undefined function display_error() in /home/ubuntu/workspace/admin/create_user.php on line 24
+[12-Apr-2019 17:42:11 UTC] PHP Stack trace:
+[12-Apr-2019 17:42:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/create_user.php:0
+[12-Apr-2019 17:42:13 UTC] PHP Fatal error:  Call to undefined function display_error() in /home/ubuntu/workspace/admin/create_user.php on line 24
+[12-Apr-2019 17:42:13 UTC] PHP Stack trace:
+[12-Apr-2019 17:42:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/create_user.php:0
+[12-Apr-2019 17:42:37 UTC] PHP Fatal error:  Call to undefined function display_error() in /home/ubuntu/workspace/admin/create_user.php on line 24
+[12-Apr-2019 17:42:37 UTC] PHP Stack trace:
+[12-Apr-2019 17:42:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/create_user.php:0
+[12-Apr-2019 17:43:16 UTC] PHP Fatal error:  Call to undefined function display_error() in /home/ubuntu/workspace/admin/create_user.php on line 25
+[12-Apr-2019 17:43:16 UTC] PHP Stack trace:
+[12-Apr-2019 17:43:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/create_user.php:0
+[12-Apr-2019 18:26:47 UTC] PHP Fatal error:  Call to undefined function display_error() in /home/ubuntu/workspace/admin/create_user.php on line 25
+[12-Apr-2019 18:26:47 UTC] PHP Stack trace:
+[12-Apr-2019 18:26:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/create_user.php:0
+[12-Apr-2019 18:26:48 UTC] PHP Fatal error:  Call to undefined function display_error() in /home/ubuntu/workspace/admin/create_user.php on line 25
+[12-Apr-2019 18:26:48 UTC] PHP Stack trace:
+[12-Apr-2019 18:26:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/create_user.php:0
+[22-Apr-2019 00:35:52 UTC] PHP Fatal error:  Call to undefined function isAdmin() in /home/ubuntu/workspace/admin/home.php on line 4
+[22-Apr-2019 00:35:52 UTC] PHP Stack trace:
+[22-Apr-2019 00:35:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/home.php:0
+[22-Apr-2019 00:35:52 UTC] PHP Fatal error:  Call to undefined function isAdmin() in /home/ubuntu/workspace/admin/home.php on line 4
+[22-Apr-2019 00:35:52 UTC] PHP Stack trace:
+[22-Apr-2019 00:35:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/home.php:0
+[22-Apr-2019 03:03:58 UTC] PHP Fatal error:  Call to undefined function isAdmin() in /home/ubuntu/workspace/admin/home.php on line 4
+[22-Apr-2019 03:03:58 UTC] PHP Stack trace:
+[22-Apr-2019 03:03:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/home.php:0
+[22-Apr-2019 03:03:58 UTC] PHP Fatal error:  Call to undefined function isAdmin() in /home/ubuntu/workspace/admin/home.php on line 4
+[22-Apr-2019 03:03:58 UTC] PHP Stack trace:
+[22-Apr-2019 03:03:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/home.php:0
+[22-Apr-2019 03:05:34 UTC] PHP Fatal error:  Call to undefined function isAdmin() in /home/ubuntu/workspace/admin/home.php on line 4
+[22-Apr-2019 03:05:34 UTC] PHP Stack trace:
+[22-Apr-2019 03:05:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/home.php:0
+[23-Apr-2019 16:27:18 UTC] PHP Fatal error:  Call to undefined function isAdmin() in /home/ubuntu/workspace/admin/home.php on line 4
+[23-Apr-2019 16:27:18 UTC] PHP Stack trace:
+[23-Apr-2019 16:27:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/home.php:0
+[23-Apr-2019 16:28:47 UTC] PHP Fatal error:  Call to undefined function isAdmin() in /home/ubuntu/workspace/admin/home.php on line 4
+[23-Apr-2019 16:28:47 UTC] PHP Stack trace:
+[23-Apr-2019 16:28:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/home.php:0
+[23-Apr-2019 16:28:50 UTC] PHP Fatal error:  Call to undefined function isAdmin() in /home/ubuntu/workspace/admin/home.php on line 4
+[23-Apr-2019 16:28:50 UTC] PHP Stack trace:
+[23-Apr-2019 16:28:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/home.php:0
+[23-Apr-2019 16:54:31 UTC] PHP Fatal error:  Call to undefined function isAdmin() in /home/ubuntu/workspace/admin/home.php on line 4
+[23-Apr-2019 16:54:31 UTC] PHP Stack trace:
+[23-Apr-2019 16:54:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/home.php:0
+[23-Apr-2019 16:54:31 UTC] PHP Fatal error:  Call to undefined function isAdmin() in /home/ubuntu/workspace/admin/home.php on line 4
+[23-Apr-2019 16:54:31 UTC] PHP Stack trace:
+[23-Apr-2019 16:54:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/home.php:0
+[23-Apr-2019 22:29:49 UTC] PHP Fatal error:  Call to undefined function isAdmin() in /home/ubuntu/workspace/admin/home.php on line 4
+[23-Apr-2019 22:29:49 UTC] PHP Stack trace:
+[23-Apr-2019 22:29:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/home.php:0
+[23-Apr-2019 22:32:38 UTC] PHP Fatal error:  Call to undefined function isAdmin() in /home/ubuntu/workspace/admin/home.php on line 4
+[23-Apr-2019 22:32:38 UTC] PHP Stack trace:
+[23-Apr-2019 22:32:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/home.php:0
+[23-Apr-2019 22:35:49 UTC] PHP Warning:  include(server.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/admin/create_user.php on line 1
+[23-Apr-2019 22:35:49 UTC] PHP Stack trace:
+[23-Apr-2019 22:35:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/create_user.php:0
+[23-Apr-2019 22:35:49 UTC] PHP Warning:  include(): Failed opening 'server.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/admin/create_user.php on line 1
+[23-Apr-2019 22:35:49 UTC] PHP Stack trace:
+[23-Apr-2019 22:35:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/create_user.php:0
+[23-Apr-2019 22:35:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/admin/create_user.php on line 32
+[23-Apr-2019 22:35:49 UTC] PHP Stack trace:
+[23-Apr-2019 22:35:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/create_user.php:0
+[23-Apr-2019 22:35:49 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/admin/create_user.php:32
+[23-Apr-2019 22:35:49 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/admin/create_user.php on line 36
+[23-Apr-2019 22:35:49 UTC] PHP Stack trace:
+[23-Apr-2019 22:35:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/create_user.php:0
+[23-Apr-2019 22:35:49 UTC] PHP   2. mysqli_error() /home/ubuntu/workspace/admin/create_user.php:36
+[23-Apr-2019 22:35:51 UTC] PHP Warning:  include(server.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/admin/create_user.php on line 1
+[23-Apr-2019 22:35:51 UTC] PHP Stack trace:
+[23-Apr-2019 22:35:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/create_user.php:0
+[23-Apr-2019 22:35:51 UTC] PHP Warning:  include(): Failed opening 'server.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/admin/create_user.php on line 1
+[23-Apr-2019 22:35:51 UTC] PHP Stack trace:
+[23-Apr-2019 22:35:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/create_user.php:0
+[23-Apr-2019 22:35:51 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/admin/create_user.php on line 32
+[23-Apr-2019 22:35:51 UTC] PHP Stack trace:
+[23-Apr-2019 22:35:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/create_user.php:0
+[23-Apr-2019 22:35:51 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/admin/create_user.php:32
+[23-Apr-2019 22:35:51 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/admin/create_user.php on line 36
+[23-Apr-2019 22:35:51 UTC] PHP Stack trace:
+[23-Apr-2019 22:35:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/create_user.php:0
+[23-Apr-2019 22:35:51 UTC] PHP   2. mysqli_error() /home/ubuntu/workspace/admin/create_user.php:36
+[23-Apr-2019 22:36:10 UTC] PHP Fatal error:  Call to undefined function isAdmin() in /home/ubuntu/workspace/admin/home.php on line 4
+[23-Apr-2019 22:36:10 UTC] PHP Stack trace:
+[23-Apr-2019 22:36:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/home.php:0
+[23-Apr-2019 22:36:13 UTC] PHP Fatal error:  Call to undefined function isAdmin() in /home/ubuntu/workspace/admin/home.php on line 4
+[23-Apr-2019 22:36:13 UTC] PHP Stack trace:
+[23-Apr-2019 22:36:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/home.php:0
+[23-Apr-2019 22:36:16 UTC] PHP Warning:  include(server.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/admin/create_user.php on line 1
+[23-Apr-2019 22:36:16 UTC] PHP Stack trace:
+[23-Apr-2019 22:36:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/create_user.php:0
+[23-Apr-2019 22:36:16 UTC] PHP Warning:  include(): Failed opening 'server.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/admin/create_user.php on line 1
+[23-Apr-2019 22:36:16 UTC] PHP Stack trace:
+[23-Apr-2019 22:36:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/create_user.php:0
+[23-Apr-2019 22:36:16 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/admin/create_user.php on line 32
+[23-Apr-2019 22:36:16 UTC] PHP Stack trace:
+[23-Apr-2019 22:36:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/create_user.php:0
+[23-Apr-2019 22:36:16 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/admin/create_user.php:32
+[23-Apr-2019 22:36:16 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/admin/create_user.php on line 36
+[23-Apr-2019 22:36:16 UTC] PHP Stack trace:
+[23-Apr-2019 22:36:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/create_user.php:0
+[23-Apr-2019 22:36:16 UTC] PHP   2. mysqli_error() /home/ubuntu/workspace/admin/create_user.php:36
+[23-Apr-2019 22:36:17 UTC] PHP Warning:  include(server.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/admin/create_user.php on line 1
+[23-Apr-2019 22:36:17 UTC] PHP Stack trace:
+[23-Apr-2019 22:36:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/create_user.php:0
+[23-Apr-2019 22:36:17 UTC] PHP Warning:  include(): Failed opening 'server.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/admin/create_user.php on line 1
+[23-Apr-2019 22:36:17 UTC] PHP Stack trace:
+[23-Apr-2019 22:36:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/create_user.php:0
+[23-Apr-2019 22:36:17 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/admin/create_user.php on line 32
+[23-Apr-2019 22:36:17 UTC] PHP Stack trace:
+[23-Apr-2019 22:36:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/create_user.php:0
+[23-Apr-2019 22:36:17 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/admin/create_user.php:32
+[23-Apr-2019 22:36:17 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/admin/create_user.php on line 36
+[23-Apr-2019 22:36:17 UTC] PHP Stack trace:
+[23-Apr-2019 22:36:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/create_user.php:0
+[23-Apr-2019 22:36:17 UTC] PHP   2. mysqli_error() /home/ubuntu/workspace/admin/create_user.php:36
+[23-Apr-2019 22:36:44 UTC] PHP Warning:  include(server.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/admin/create_user.php on line 1
+[23-Apr-2019 22:36:44 UTC] PHP Stack trace:
+[23-Apr-2019 22:36:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/create_user.php:0
+[23-Apr-2019 22:36:44 UTC] PHP Warning:  include(): Failed opening 'server.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/admin/create_user.php on line 1
+[23-Apr-2019 22:36:44 UTC] PHP Stack trace:
+[23-Apr-2019 22:36:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/create_user.php:0
+[23-Apr-2019 22:36:44 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/admin/create_user.php on line 32
+[23-Apr-2019 22:36:44 UTC] PHP Stack trace:
+[23-Apr-2019 22:36:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/create_user.php:0
+[23-Apr-2019 22:36:44 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/admin/create_user.php:32
+[23-Apr-2019 22:36:44 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/admin/create_user.php on line 36
+[23-Apr-2019 22:36:44 UTC] PHP Stack trace:
+[23-Apr-2019 22:36:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/create_user.php:0
+[23-Apr-2019 22:36:44 UTC] PHP   2. mysqli_error() /home/ubuntu/workspace/admin/create_user.php:36
+[23-Apr-2019 22:38:21 UTC] PHP Warning:  include(server.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/admin/create_user.php on line 1
+[23-Apr-2019 22:38:21 UTC] PHP Stack trace:
+[23-Apr-2019 22:38:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/create_user.php:0
+[23-Apr-2019 22:38:21 UTC] PHP Warning:  include(): Failed opening 'server.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/admin/create_user.php on line 1
+[23-Apr-2019 22:38:21 UTC] PHP Stack trace:
+[23-Apr-2019 22:38:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/create_user.php:0
+[23-Apr-2019 22:38:21 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/admin/create_user.php on line 32
+[23-Apr-2019 22:38:21 UTC] PHP Stack trace:
+[23-Apr-2019 22:38:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/create_user.php:0
+[23-Apr-2019 22:38:21 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/admin/create_user.php:32
+[23-Apr-2019 22:38:21 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/admin/create_user.php on line 36
+[23-Apr-2019 22:38:21 UTC] PHP Stack trace:
+[23-Apr-2019 22:38:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/create_user.php:0
+[23-Apr-2019 22:38:21 UTC] PHP   2. mysqli_error() /home/ubuntu/workspace/admin/create_user.php:36
+[23-Apr-2019 22:39:22 UTC] PHP Warning:  include(server.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/admin/create_user.php on line 1
+[23-Apr-2019 22:39:22 UTC] PHP Stack trace:
+[23-Apr-2019 22:39:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/create_user.php:0
+[23-Apr-2019 22:39:22 UTC] PHP Warning:  include(): Failed opening 'server.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/admin/create_user.php on line 1
+[23-Apr-2019 22:39:22 UTC] PHP Stack trace:
+[23-Apr-2019 22:39:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/create_user.php:0
+[23-Apr-2019 22:39:22 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/admin/create_user.php on line 32
+[23-Apr-2019 22:39:22 UTC] PHP Stack trace:
+[23-Apr-2019 22:39:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/create_user.php:0
+[23-Apr-2019 22:39:22 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/admin/create_user.php:32
+[23-Apr-2019 22:39:22 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/admin/create_user.php on line 36
+[23-Apr-2019 22:39:22 UTC] PHP Stack trace:
+[23-Apr-2019 22:39:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/create_user.php:0
+[23-Apr-2019 22:39:22 UTC] PHP   2. mysqli_error() /home/ubuntu/workspace/admin/create_user.php:36
+[23-Apr-2019 23:04:52 UTC] PHP Warning:  include(server.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/admin/create_user.php on line 1
+[23-Apr-2019 23:04:52 UTC] PHP Stack trace:
+[23-Apr-2019 23:04:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/create_user.php:0
+[23-Apr-2019 23:04:52 UTC] PHP Warning:  include(): Failed opening 'server.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/admin/create_user.php on line 1
+[23-Apr-2019 23:04:52 UTC] PHP Stack trace:
+[23-Apr-2019 23:04:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/create_user.php:0
+[23-Apr-2019 23:04:52 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/admin/create_user.php on line 32
+[23-Apr-2019 23:04:52 UTC] PHP Stack trace:
+[23-Apr-2019 23:04:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/create_user.php:0
+[23-Apr-2019 23:04:52 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/admin/create_user.php:32
+[23-Apr-2019 23:04:52 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/admin/create_user.php on line 36
+[23-Apr-2019 23:04:52 UTC] PHP Stack trace:
+[23-Apr-2019 23:04:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/create_user.php:0
+[23-Apr-2019 23:04:52 UTC] PHP   2. mysqli_error() /home/ubuntu/workspace/admin/create_user.php:36
+[23-Apr-2019 23:05:33 UTC] PHP Warning:  include(server.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/admin/create_user.php on line 1
+[23-Apr-2019 23:05:33 UTC] PHP Stack trace:
+[23-Apr-2019 23:05:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/create_user.php:0
+[23-Apr-2019 23:05:33 UTC] PHP Warning:  include(): Failed opening 'server.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/admin/create_user.php on line 1
+[23-Apr-2019 23:05:33 UTC] PHP Stack trace:
+[23-Apr-2019 23:05:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/create_user.php:0
+[23-Apr-2019 23:05:33 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/admin/create_user.php on line 32
+[23-Apr-2019 23:05:33 UTC] PHP Stack trace:
+[23-Apr-2019 23:05:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/create_user.php:0
+[23-Apr-2019 23:05:33 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/admin/create_user.php:32
+[23-Apr-2019 23:05:33 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/admin/create_user.php on line 36
+[23-Apr-2019 23:05:33 UTC] PHP Stack trace:
+[23-Apr-2019 23:05:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/create_user.php:0
+[23-Apr-2019 23:05:33 UTC] PHP   2. mysqli_error() /home/ubuntu/workspace/admin/create_user.php:36
+[23-Apr-2019 23:06:10 UTC] PHP Warning:  include(server.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/admin/create_user.php on line 1
+[23-Apr-2019 23:06:10 UTC] PHP Stack trace:
+[23-Apr-2019 23:06:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/create_user.php:0
+[23-Apr-2019 23:06:10 UTC] PHP Warning:  include(): Failed opening 'server.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/admin/create_user.php on line 1
+[23-Apr-2019 23:06:10 UTC] PHP Stack trace:
+[23-Apr-2019 23:06:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/create_user.php:0
+[23-Apr-2019 23:06:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/admin/create_user.php on line 32
+[23-Apr-2019 23:06:10 UTC] PHP Stack trace:
+[23-Apr-2019 23:06:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/create_user.php:0
+[23-Apr-2019 23:06:10 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/admin/create_user.php:32
+[23-Apr-2019 23:06:10 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/admin/create_user.php on line 36
+[23-Apr-2019 23:06:10 UTC] PHP Stack trace:
+[23-Apr-2019 23:06:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/create_user.php:0
+[23-Apr-2019 23:06:10 UTC] PHP   2. mysqli_error() /home/ubuntu/workspace/admin/create_user.php:36
+[23-Apr-2019 23:06:40 UTC] PHP Warning:  include(server.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/admin/create_user.php on line 1
+[23-Apr-2019 23:06:40 UTC] PHP Stack trace:
+[23-Apr-2019 23:06:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/create_user.php:0
+[23-Apr-2019 23:06:40 UTC] PHP Warning:  include(): Failed opening 'server.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/admin/create_user.php on line 1
+[23-Apr-2019 23:06:40 UTC] PHP Stack trace:
+[23-Apr-2019 23:06:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/create_user.php:0
+[23-Apr-2019 23:06:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/admin/create_user.php on line 32
+[23-Apr-2019 23:06:40 UTC] PHP Stack trace:
+[23-Apr-2019 23:06:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/create_user.php:0
+[23-Apr-2019 23:06:40 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/admin/create_user.php:32
+[23-Apr-2019 23:06:40 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/admin/create_user.php on line 36
+[23-Apr-2019 23:06:40 UTC] PHP Stack trace:
+[23-Apr-2019 23:06:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/create_user.php:0
+[23-Apr-2019 23:06:40 UTC] PHP   2. mysqli_error() /home/ubuntu/workspace/admin/create_user.php:36
+[23-Apr-2019 23:07:22 UTC] PHP Warning:  include(server.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/admin/create_user.php on line 1
+[23-Apr-2019 23:07:22 UTC] PHP Stack trace:
+[23-Apr-2019 23:07:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/create_user.php:0
+[23-Apr-2019 23:07:22 UTC] PHP Warning:  include(): Failed opening 'server.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/admin/create_user.php on line 1
+[23-Apr-2019 23:07:22 UTC] PHP Stack trace:
+[23-Apr-2019 23:07:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/create_user.php:0
+[23-Apr-2019 23:07:22 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/admin/create_user.php on line 29
+[23-Apr-2019 23:07:22 UTC] PHP Stack trace:
+[23-Apr-2019 23:07:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/create_user.php:0
+[23-Apr-2019 23:07:22 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/admin/create_user.php:29
+[23-Apr-2019 23:07:22 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/admin/create_user.php on line 33
+[23-Apr-2019 23:07:22 UTC] PHP Stack trace:
+[23-Apr-2019 23:07:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/create_user.php:0
+[23-Apr-2019 23:07:22 UTC] PHP   2. mysqli_error() /home/ubuntu/workspace/admin/create_user.php:33
+[25-Apr-2019 19:10:24 UTC] PHP Warning:  include(server.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/roomtable/roomtimetable.php on line 3
+[25-Apr-2019 19:10:24 UTC] PHP Stack trace:
+[25-Apr-2019 19:10:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/roomtable/roomtimetable.php:0
+[25-Apr-2019 19:10:24 UTC] PHP Warning:  include(): Failed opening 'server.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/roomtable/roomtimetable.php on line 3
+[25-Apr-2019 19:10:24 UTC] PHP Stack trace:
+[25-Apr-2019 19:10:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/roomtable/roomtimetable.php:0
+[25-Apr-2019 19:10:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/roomtable/roomtimetable.php on line 17
+[25-Apr-2019 19:10:24 UTC] PHP Stack trace:
+[25-Apr-2019 19:10:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/roomtable/roomtimetable.php:0
+[25-Apr-2019 19:10:24 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/roomtable/roomtimetable.php:17
+[25-Apr-2019 19:10:24 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/roomtable/roomtimetable.php on line 20
+[25-Apr-2019 19:10:24 UTC] PHP Stack trace:
+[25-Apr-2019 19:10:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/roomtable/roomtimetable.php:0
+[25-Apr-2019 19:10:24 UTC] PHP   2. mysqli_error() /home/ubuntu/workspace/roomtable/roomtimetable.php:20
+[25-Apr-2019 19:11:08 UTC] PHP Warning:  include(./server.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/roomtable/roomtimetable.php on line 3
+[25-Apr-2019 19:11:08 UTC] PHP Stack trace:
+[25-Apr-2019 19:11:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/roomtable/roomtimetable.php:0
+[25-Apr-2019 19:11:08 UTC] PHP Warning:  include(): Failed opening './server.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/roomtable/roomtimetable.php on line 3
+[25-Apr-2019 19:11:08 UTC] PHP Stack trace:
+[25-Apr-2019 19:11:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/roomtable/roomtimetable.php:0
+[25-Apr-2019 19:12:09 UTC] PHP Warning:  include(library_space/server.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/roomtable/roomtimetable.php on line 3
+[25-Apr-2019 19:12:09 UTC] PHP Stack trace:
+[25-Apr-2019 19:12:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/roomtable/roomtimetable.php:0
+[25-Apr-2019 19:12:09 UTC] PHP Warning:  include(): Failed opening 'library_space/server.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/roomtable/roomtimetable.php on line 3
+[25-Apr-2019 19:12:09 UTC] PHP Stack trace:
+[25-Apr-2019 19:12:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/roomtable/roomtimetable.php:0
+[25-Apr-2019 19:12:09 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/roomtable/roomtimetable.php on line 17
+[25-Apr-2019 19:12:09 UTC] PHP Stack trace:
+[25-Apr-2019 19:12:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/roomtable/roomtimetable.php:0
+[25-Apr-2019 19:12:09 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/roomtable/roomtimetable.php:17
+[25-Apr-2019 19:12:09 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/roomtable/roomtimetable.php on line 20
+[25-Apr-2019 19:12:09 UTC] PHP Stack trace:
+[25-Apr-2019 19:12:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/roomtable/roomtimetable.php:0
+[25-Apr-2019 19:12:09 UTC] PHP   2. mysqli_error() /home/ubuntu/workspace/roomtable/roomtimetable.php:20
+[25-Apr-2019 19:14:20 UTC] PHP Warning:  include(server.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/roomtable/roomtimetable.php on line 3
+[25-Apr-2019 19:14:20 UTC] PHP Stack trace:
+[25-Apr-2019 19:14:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/roomtable/roomtimetable.php:0
+[25-Apr-2019 19:14:20 UTC] PHP Warning:  include(): Failed opening 'server.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/roomtable/roomtimetable.php on line 3
+[25-Apr-2019 19:14:20 UTC] PHP Stack trace:
+[25-Apr-2019 19:14:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/roomtable/roomtimetable.php:0
+[25-Apr-2019 19:14:20 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/roomtable/roomtimetable.php on line 17
+[25-Apr-2019 19:14:20 UTC] PHP Stack trace:
+[25-Apr-2019 19:14:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/roomtable/roomtimetable.php:0
+[25-Apr-2019 19:14:20 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/roomtable/roomtimetable.php:17
+[25-Apr-2019 19:14:20 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/roomtable/roomtimetable.php on line 20
+[25-Apr-2019 19:14:20 UTC] PHP Stack trace:
+[25-Apr-2019 19:14:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/roomtable/roomtimetable.php:0
+[25-Apr-2019 19:14:20 UTC] PHP   2. mysqli_error() /home/ubuntu/workspace/roomtable/roomtimetable.php:20
+[25-Apr-2019 19:16:56 UTC] PHP Warning:  include(server.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/roomtable/roomtimetable.php on line 3
+[25-Apr-2019 19:16:56 UTC] PHP Stack trace:
+[25-Apr-2019 19:16:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/roomtable/roomtimetable.php:0
+[25-Apr-2019 19:16:56 UTC] PHP Warning:  include(): Failed opening 'server.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/roomtable/roomtimetable.php on line 3
+[25-Apr-2019 19:16:56 UTC] PHP Stack trace:
+[25-Apr-2019 19:16:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/roomtable/roomtimetable.php:0
+[25-Apr-2019 19:18:18 UTC] PHP Warning:  include(server.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/roomtable/roomtimetable.php on line 3
+[25-Apr-2019 19:18:18 UTC] PHP Stack trace:
+[25-Apr-2019 19:18:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/roomtable/roomtimetable.php:0
+[25-Apr-2019 19:18:18 UTC] PHP Warning:  include(): Failed opening 'server.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/roomtable/roomtimetable.php on line 3
+[25-Apr-2019 19:18:18 UTC] PHP Stack trace:
+[25-Apr-2019 19:18:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/roomtable/roomtimetable.php:0
+[25-Apr-2019 19:18:18 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/roomtable/roomtimetable.php on line 17
+[25-Apr-2019 19:18:18 UTC] PHP Stack trace:
+[25-Apr-2019 19:18:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/roomtable/roomtimetable.php:0
+[25-Apr-2019 19:18:18 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/roomtable/roomtimetable.php:17
+[25-Apr-2019 19:18:18 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/roomtable/roomtimetable.php on line 20
+[25-Apr-2019 19:18:18 UTC] PHP Stack trace:
+[25-Apr-2019 19:18:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/roomtable/roomtimetable.php:0
+[25-Apr-2019 19:18:18 UTC] PHP   2. mysqli_error() /home/ubuntu/workspace/roomtable/roomtimetable.php:20
+[25-Apr-2019 19:27:37 UTC] PHP Warning:  include(server.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/roomtable/roomtimetable.php on line 3
+[25-Apr-2019 19:27:37 UTC] PHP Stack trace:
+[25-Apr-2019 19:27:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/roomtable/roomtimetable.php:0
+[25-Apr-2019 19:27:37 UTC] PHP Warning:  include(): Failed opening 'server.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/roomtable/roomtimetable.php on line 3
+[25-Apr-2019 19:27:37 UTC] PHP Stack trace:
+[25-Apr-2019 19:27:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/roomtable/roomtimetable.php:0
+[25-Apr-2019 19:27:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/roomtable/roomtimetable.php on line 17
+[25-Apr-2019 19:27:37 UTC] PHP Stack trace:
+[25-Apr-2019 19:27:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/roomtable/roomtimetable.php:0
+[25-Apr-2019 19:27:37 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/roomtable/roomtimetable.php:17
+[25-Apr-2019 19:27:37 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/roomtable/roomtimetable.php on line 20
+[25-Apr-2019 19:27:37 UTC] PHP Stack trace:
+[25-Apr-2019 19:27:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/roomtable/roomtimetable.php:0
+[25-Apr-2019 19:27:37 UTC] PHP   2. mysqli_error() /home/ubuntu/workspace/roomtable/roomtimetable.php:20
+[25-Apr-2019 19:33:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/roomtable/roomtimetable.php on line 17
+[25-Apr-2019 19:33:14 UTC] PHP Stack trace:
+[25-Apr-2019 19:33:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/roomtable/roomtimetable.php:0
+[25-Apr-2019 19:33:14 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/roomtable/roomtimetable.php:17
+[28-Apr-2019 07:06:13 UTC] PHP Warning:  mysqli_query(): Empty query in /home/ubuntu/workspace/roomtable/roomtimetable.php on line 21
+[28-Apr-2019 07:06:13 UTC] PHP Stack trace:
+[28-Apr-2019 07:06:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/roomtable/roomtimetable.php:0
+[28-Apr-2019 07:06:13 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/roomtable/roomtimetable.php:21
+[29-Apr-2019 00:56:36 UTC] PHP Fatal error:  Call to undefined function isAdmin() in /home/ubuntu/workspace/admin/home.php on line 4
+[29-Apr-2019 00:56:36 UTC] PHP Stack trace:
+[29-Apr-2019 00:56:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/home.php:0
+[29-Apr-2019 01:40:03 UTC] PHP Fatal error:  Call to undefined function isAdmin() in /home/ubuntu/workspace/admin/home.php on line 4
+[29-Apr-2019 01:40:03 UTC] PHP Stack trace:
+[29-Apr-2019 01:40:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/home.php:0
+[01-May-2019 18:30:29 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/admin/create_user.php on line 3
+[01-May-2019 18:30:30 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/admin/create_user.php on line 3
+[01-May-2019 18:32:05 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/admin/create_user.php on line 3
+[01-May-2019 18:32:22 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/admin/create_user.php on line 3
+[01-May-2019 18:32:56 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/admin/create_user.php on line 3
+[02-May-2019 16:35:27 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/roomtable/checkReservation.php on line 19
+[02-May-2019 16:39:49 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/roomtable/checkReservation.php on line 19
+[02-May-2019 16:39:54 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/roomtable/checkReservation.php on line 19
+[06-May-2019 23:44:00 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/ubuntu/workspace/admin/admin_home.php on line 10
+[06-May-2019 23:44:00 UTC] PHP Stack trace:
+[06-May-2019 23:44:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/admin_home.php:0
+[06-May-2019 23:44:00 UTC] PHP   2. session_destroy() /home/ubuntu/workspace/admin/admin_home.php:10
+[07-May-2019 00:19:27 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/ubuntu/workspace/admin/admin_home.php on line 10
+[07-May-2019 00:19:27 UTC] PHP Stack trace:
+[07-May-2019 00:19:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/admin_home.php:0
+[07-May-2019 00:19:27 UTC] PHP   2. session_destroy() /home/ubuntu/workspace/admin/admin_home.php:10
+[07-May-2019 00:24:23 UTC] PHP Warning:  include(server.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/roomtable/reservedlist.php on line 1
+[07-May-2019 00:24:23 UTC] PHP Stack trace:
+[07-May-2019 00:24:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/roomtable/reservedlist.php:0
+[07-May-2019 00:24:23 UTC] PHP Warning:  include(): Failed opening 'server.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/roomtable/reservedlist.php on line 1
+[07-May-2019 00:24:23 UTC] PHP Stack trace:
+[07-May-2019 00:24:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/roomtable/reservedlist.php:0
+[07-May-2019 00:24:23 UTC] PHP Fatal error:  Call to undefined function isLoggedIn() in /home/ubuntu/workspace/roomtable/reservedlist.php on line 3
+[07-May-2019 00:24:23 UTC] PHP Stack trace:
+[07-May-2019 00:24:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/roomtable/reservedlist.php:0
+[07-May-2019 00:25:36 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/ubuntu/workspace/admin/admin_home.php on line 10
+[07-May-2019 00:25:36 UTC] PHP Stack trace:
+[07-May-2019 00:25:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/admin_home.php:0
+[07-May-2019 00:25:36 UTC] PHP   2. session_destroy() /home/ubuntu/workspace/admin/admin_home.php:10
+[07-May-2019 15:58:14 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/ubuntu/workspace/admin/admin_home.php on line 10
+[07-May-2019 15:58:14 UTC] PHP Stack trace:
+[07-May-2019 15:58:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/admin_home.php:0
+[07-May-2019 15:58:14 UTC] PHP   2. session_destroy() /home/ubuntu/workspace/admin/admin_home.php:10
+[07-May-2019 16:03:20 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/ubuntu/workspace/admin/admin_home.php on line 10
+[07-May-2019 16:03:20 UTC] PHP Stack trace:
+[07-May-2019 16:03:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/admin_home.php:0
+[07-May-2019 16:03:20 UTC] PHP   2. session_destroy() /home/ubuntu/workspace/admin/admin_home.php:10
+[07-May-2019 16:26:48 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/ubuntu/workspace/admin/admin_home.php on line 10
+[07-May-2019 16:26:48 UTC] PHP Stack trace:
+[07-May-2019 16:26:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/admin_home.php:0
+[07-May-2019 16:26:48 UTC] PHP   2. session_destroy() /home/ubuntu/workspace/admin/admin_home.php:10
+[07-May-2019 16:40:37 UTC] PHP Parse error:  syntax error, unexpected 'delete' (T_STRING), expecting ',' or ';' in /home/ubuntu/workspace/roomtable/reservedlist.php on line 106
+[07-May-2019 16:40:41 UTC] PHP Parse error:  syntax error, unexpected 'delete' (T_STRING), expecting ',' or ';' in /home/ubuntu/workspace/roomtable/reservedlist.php on line 106
+[07-May-2019 16:48:10 UTC] PHP Parse error:  syntax error, unexpected 'submit' (T_STRING), expecting ',' or ';' in /home/ubuntu/workspace/roomtable/reservedlist.php on line 106
+[07-May-2019 16:48:36 UTC] PHP Parse error:  syntax error, unexpected 'submit' (T_STRING), expecting ',' or ';' in /home/ubuntu/workspace/roomtable/reservedlist.php on line 106
+[07-May-2019 17:11:35 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/ubuntu/workspace/admin/admin_home.php on line 10
+[07-May-2019 17:11:35 UTC] PHP Stack trace:
+[07-May-2019 17:11:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/admin_home.php:0
+[07-May-2019 17:11:35 UTC] PHP   2. session_destroy() /home/ubuntu/workspace/admin/admin_home.php:10
+[07-May-2019 17:12:48 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/ubuntu/workspace/admin/admin_home.php on line 10
+[07-May-2019 17:12:48 UTC] PHP Stack trace:
+[07-May-2019 17:12:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/admin_home.php:0
+[07-May-2019 17:12:48 UTC] PHP   2. session_destroy() /home/ubuntu/workspace/admin/admin_home.php:10
+[12-May-2019 02:17:58 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/ubuntu/workspace/admin/admin_home.php on line 10
+[12-May-2019 02:17:58 UTC] PHP Stack trace:
+[12-May-2019 02:17:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/admin_home.php:0
+[12-May-2019 02:17:58 UTC] PHP   2. session_destroy() /home/ubuntu/workspace/admin/admin_home.php:10
+[13-May-2019 17:26:15 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/ubuntu/workspace/admin/admin_home.php on line 10
+[13-May-2019 17:26:15 UTC] PHP Stack trace:
+[13-May-2019 17:26:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/admin_home.php:0
+[13-May-2019 17:26:15 UTC] PHP   2. session_destroy() /home/ubuntu/workspace/admin/admin_home.php:10
+[13-May-2019 22:24:22 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/ubuntu/workspace/admin/admin_home.php on line 10
+[13-May-2019 22:24:22 UTC] PHP Stack trace:
+[13-May-2019 22:24:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/admin_home.php:0
+[13-May-2019 22:24:22 UTC] PHP   2. session_destroy() /home/ubuntu/workspace/admin/admin_home.php:10
+[14-May-2019 02:25:05 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/ubuntu/workspace/admin/admin_home.php on line 10
+[14-May-2019 02:25:05 UTC] PHP Stack trace:
+[14-May-2019 02:25:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/admin_home.php:0
+[14-May-2019 02:25:05 UTC] PHP   2. session_destroy() /home/ubuntu/workspace/admin/admin_home.php:10
+[14-May-2019 13:21:27 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/ubuntu/workspace/admin/admin_home.php on line 10
+[14-May-2019 13:21:27 UTC] PHP Stack trace:
+[14-May-2019 13:21:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/admin_home.php:0
+[14-May-2019 13:21:27 UTC] PHP   2. session_destroy() /home/ubuntu/workspace/admin/admin_home.php:10
