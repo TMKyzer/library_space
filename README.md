@@ -12,5 +12,5 @@ Written In:
 - JQuery
 - MySQLi
 
-I do realize that it is overall a bit sloppy.  I plan to upgrade the quality as well as functionality as I
+I do realize that it is overall a bit sloppy.  I plan to upgrade the quality along with functionality as I
   learn more.
